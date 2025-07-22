@@ -1,0 +1,8 @@
+{
+  "model_name": "mistralai/Mistral-Large-Instruct-2411",
+  "license": "mrl",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "123"
+}

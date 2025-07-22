@@ -1,0 +1,8 @@
+{
+  "model_name": "google/gemma-3-12b-it",
+  "license": "gemma",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "12"
+}

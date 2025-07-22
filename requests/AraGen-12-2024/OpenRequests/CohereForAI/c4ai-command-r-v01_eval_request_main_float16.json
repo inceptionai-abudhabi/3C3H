@@ -1,0 +1,8 @@
+{
+  "model_name": "CohereForAI/c4ai-command-r-v01",
+  "license": "cc-by-nc-4.0",
+  "revision": "main",
+  "precision": "float16",
+  "status": "FINISHED",
+  "params": "35"
+}

@@ -1,0 +1,8 @@
+{
+  "model_name": "FreedomIntelligence/AceGPT-7B-chat",
+  "license": "apache-2.0",
+  "revision": "main",
+  "precision": "float16",
+  "status": "FAILED",
+  "params": "7"
+}

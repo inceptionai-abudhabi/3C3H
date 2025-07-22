@@ -1,0 +1,8 @@
+{
+  "model_name": "inceptionai/jais-adapted-7b-chat",
+  "license": "apache-2.0",
+  "revision": "main",
+  "precision": "float32",
+  "status": "FINISHED",
+  "params": "7"
+}

@@ -1,0 +1,8 @@
+{
+  "model_name": "meta-llama/Llama-3.1-405B-Instruct-FP8",
+  "license": "llama3.1",
+  "revision": "main",
+  "precision": "8bit",
+  "status": "REJECTED",
+  "params": "405"
+}

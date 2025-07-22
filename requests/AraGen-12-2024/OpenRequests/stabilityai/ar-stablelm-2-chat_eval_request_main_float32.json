@@ -1,0 +1,8 @@
+{
+  "model_name": "stabilityai/ar-stablelm-2-chat",
+  "license": "other",
+  "revision": "main",
+  "precision": "float32",
+  "status": "FINISHED",
+  "params": "2"
+}

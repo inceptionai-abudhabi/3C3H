@@ -1,0 +1,8 @@
+{
+  "model_name": "meta-llama/Llama-3.3-70B-Instruct",
+  "license": "llama3.3",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "70"
+}

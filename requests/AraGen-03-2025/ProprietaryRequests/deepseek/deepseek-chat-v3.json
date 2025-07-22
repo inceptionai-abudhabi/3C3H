@@ -1,0 +1,8 @@
+{
+  "model_name": "deepseek-chat",
+  "license": "Proprietary",
+  "revision": "UNK",
+  "precision": "fp8",
+  "status": "FINISHED",
+  "params": "685"
+}

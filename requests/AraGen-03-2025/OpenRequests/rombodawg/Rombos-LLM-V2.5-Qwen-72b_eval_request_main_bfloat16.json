@@ -1,0 +1,8 @@
+{
+  "model_name": "rombodawg/Rombos-LLM-V2.5-Qwen-72b",
+  "license": "qwen",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "72"
+}

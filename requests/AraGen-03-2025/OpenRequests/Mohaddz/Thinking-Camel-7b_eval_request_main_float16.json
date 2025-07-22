@@ -1,0 +1,8 @@
+{
+  "model_name": "Mohaddz/Thinking-Camel-7b",
+  "license": "Open",
+  "revision": "main",
+  "precision": "float16",
+  "status": "FINISHED",
+  "params": "7"
+}

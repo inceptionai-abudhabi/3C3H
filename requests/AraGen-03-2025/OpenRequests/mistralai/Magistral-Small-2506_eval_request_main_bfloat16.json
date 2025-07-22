@@ -1,0 +1,9 @@
+{
+  "model_name": "mistralai/Magistral-Small-2506",
+  "license": "apache-2.0",
+  "revision": "main",
+  "precision": "bfloat16",
+  "params": "23",
+  "status": "FAILED",
+  "modality": "Text"
+}

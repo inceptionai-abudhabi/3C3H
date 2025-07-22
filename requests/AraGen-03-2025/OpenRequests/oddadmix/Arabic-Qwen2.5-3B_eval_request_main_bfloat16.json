@@ -1,0 +1,8 @@
+{
+  "model_name": "oddadmix/Arabic-Qwen2.5-3B",
+  "license": "Open",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FAILED",
+  "params": "3"
+}

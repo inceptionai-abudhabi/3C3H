@@ -1,0 +1,8 @@
+{
+  "model_name": "kyutai/helium-1-preview-2b",
+  "license": "cc-by-4.0",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "2"
+}

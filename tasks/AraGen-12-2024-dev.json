@@ -1,0 +1,122 @@
+[
+    {
+        "Meta": {
+            "SN.": 1,
+            "Round": 0,
+            "Task": "Question Answering (QA)",
+            "Dataset": null,
+            "Category": "Synthetic",
+            "Sub-Category": "Arab world",
+            "Source": "gpt-4o",
+            "Fact Checking": null,
+            "Comment": null,
+            "Model Name": null,
+            "License": null,
+            "Revision": null,
+            "Precision": null,
+            "Params": null
+        },
+        "Test": {
+            "Question 1": "ما هي الدول الأعضاء في جامعة الدول العربية؟",
+            "Answer 1": "جامعة الدول العربية تضم 22 دولة عضو، وهي: الأردن، الإمارات، البحرين، تونس، الجزائر، جيبوتي، السعودية، السودان، سوريا، الصومال، العراق، عُمان، فلسطين، قطر، الكويت، لبنان، ليبيا، مصر، المغرب، موريتانيا، اليمن، وجزر القمر.",
+            "Question 2": null,
+            "Answer 2": null
+        }
+    },
+    {
+        "Meta": {
+            "SN.": 2,
+            "Round": 0,
+            "Task": "Question Answering (QA)",
+            "Dataset": null,
+            "Category": "Synthetic",
+            "Sub-Category": "Arab world",
+            "Source": "gpt-4o",
+            "Fact Checking": null,
+            "Comment": null,
+            "Model Name": null,
+            "License": null,
+            "Revision": null,
+            "Precision": null,
+            "Params": null
+        },
+        "Test": {
+            "Question 1": "كيف أثرت الثورات العربية (الربيع العربي) على الأنظمة السياسية في المنطقة؟",
+            "Answer 1": "أدت الثورات العربية إلى تغييرات جوهرية في عدة أنظمة سياسية، حيث أُسقطت حكومات في تونس ومصر وليبيا واليمن وسوريا، مما أدى لتغيرات سياسية واجتماعية واقتصادية متفاوتة، وزيادة المطالب الشعبية بالديمقراطية والعدالة الاجتماعية.",
+            "Question 2": null,
+            "Answer 2": null
+        }
+    },
+    {
+        "Meta": {
+            "SN.": 3,
+            "Round": 0,
+            "Task": "Question Answering (QA)",
+            "Dataset": null,
+            "Category": "Synthetic",
+            "Sub-Category": "Arab world",
+            "Source": "gpt-4o",
+            "Fact Checking": null,
+            "Comment": null,
+            "Model Name": null,
+            "License": null,
+            "Revision": null,
+            "Precision": null,
+            "Params": null
+        },
+        "Test": {
+            "Question 1": "ما هو دور الدول العربية في منظمة الأوبك وتأثيرها على أسعار النفط العالمية؟",
+            "Answer 1": "الدول العربية، خصوصًا السعودية والإمارات والكويت، تلعب دورًا رئيسيًا في منظمة الأوبك كونها من أكبر المنتجين والمصدرين للنفط. تساهم قراراتها بشأن الإنتاج في تثبيت مستويات الأسعار العالمية للنفط عبر تنظيم العرض بما يتناسب مع الطلب.",
+            "Question 2": null,
+            "Answer 2": null
+        }
+    },
+    {
+        "Meta": {
+            "SN.": 4,
+            "Round": 0,
+            "Task": "Question Answering (QA)",
+            "Dataset": null,
+            "Category": "Synthetic",
+            "Sub-Category": "Arab world",
+            "Source": "gpt-4o",
+            "Fact Checking": null,
+            "Comment": null,
+            "Model Name": null,
+            "License": null,
+            "Revision": null,
+            "Precision": null,
+            "Params": null
+        },
+        "Test": {
+            "Question 1": "كيف تساهم الدول العربية في دعم الأمن الغذائي العالمي؟",
+            "Answer 1": "تساهم الدول العربية في دعم الأمن الغذائي العالمي من خلال الاستثمار في الزراعة وزيادة الإنتاج المحلي، وتحسين تقنيات الري، وأيضاً عبر استيراد وتصدير السلع الغذائية لتعزيز التوازن في الأسواق.",
+            "Question 2": null,
+            "Answer 2": null
+        }
+    },
+    {
+        "Meta": {
+            "SN.": 5,
+            "Round": 0,
+            "Task": "Question Answering (QA)",
+            "Dataset": null,
+            "Category": "Synthetic",
+            "Sub-Category": "Arab world",
+            "Source": "gpt-4o",
+            "Fact Checking": null,
+            "Comment": null,
+            "Model Name": null,
+            "License": null,
+            "Revision": null,
+            "Precision": null,
+            "Params": null
+        },
+        "Test": {
+            "Question 1": "ما هي أهم التحديات الاقتصادية التي تواجه العالم العربي؟",
+            "Answer 1": "أهم التحديات الاقتصادية التي تواجه العالم العربي تشمل البطالة المرتفعة، تباطؤ النمو الاقتصادي، الاعتماد الكبير على عائدات النفط، وعدم تنويع مصادر الدخل.",
+            "Question 2": null,
+            "Answer 2": null
+        }
+    }
+]

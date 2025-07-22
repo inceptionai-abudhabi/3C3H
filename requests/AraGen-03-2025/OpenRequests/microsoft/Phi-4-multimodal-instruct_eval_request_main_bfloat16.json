@@ -1,0 +1,8 @@
+{
+  "model_name": "microsoft/Phi-4-multimodal-instruct",
+  "license": "mit",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FAILED",
+  "params": "5"
+}

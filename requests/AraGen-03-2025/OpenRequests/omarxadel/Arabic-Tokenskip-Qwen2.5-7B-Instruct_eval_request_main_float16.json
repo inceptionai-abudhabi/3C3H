@@ -1,0 +1,9 @@
+{
+  "model_name": "omarxadel/Arabic-Tokenskip-Qwen2.5-7B-Instruct",
+  "license": "Open",
+  "revision": "main",
+  "precision": "float16",
+  "params": "",
+  "status": "FAILED",
+  "modality": "Text"
+}

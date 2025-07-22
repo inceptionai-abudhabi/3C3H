@@ -1,0 +1,8 @@
+{
+  "model_name": "maldv/Qwentile2.5-32B-Instruct",
+  "license": "Open",
+  "revision": "main",
+  "precision": "float16",
+  "status": "FINISHED",
+  "params": "32"
+}

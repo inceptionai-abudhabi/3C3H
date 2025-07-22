@@ -1,0 +1,8 @@
+{
+  "model_name": "Daemontatox/Llama3.3-70B-CogniLink",
+  "license": "Open",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "REJECTED",
+  "params": "70"
+}

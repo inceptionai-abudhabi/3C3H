@@ -1,0 +1,8 @@
+{
+  "model_name": "CohereForAI/aya-vision-32b",
+  "license": "cc-by-nc-4.0",
+  "revision": "main",
+  "precision": "float16",
+  "status": "NN",
+  "params": "32"
+}

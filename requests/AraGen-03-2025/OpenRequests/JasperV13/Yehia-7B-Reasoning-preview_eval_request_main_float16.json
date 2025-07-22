@@ -1,0 +1,9 @@
+{
+  "model_name": "JasperV13/Yehia-7B-Reasoning-preview",
+  "license": "Open",
+  "revision": "main",
+  "precision": "float16",
+  "params": "7",
+  "status": "FAILED",
+  "modality": "Text"
+}

@@ -1,0 +1,8 @@
+{
+  "model_name": "Qwen/Qwen2.5-1.5B-Instruct",
+  "license": "qwen",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "1.5"
+}

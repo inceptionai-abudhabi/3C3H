@@ -1,0 +1,8 @@
+{
+  "model_name": "ALLaM-AI/ALLaM-7B-Instruct-preview",
+  "license": "apache-2.0",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "7"
+}

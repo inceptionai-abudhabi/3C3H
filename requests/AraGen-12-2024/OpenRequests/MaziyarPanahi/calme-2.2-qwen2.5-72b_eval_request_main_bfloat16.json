@@ -1,0 +1,8 @@
+{
+  "model_name": "MaziyarPanahi/calme-2.2-qwen2.5-72b",
+  "license": "tongyi-qianwen",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "72"
+}

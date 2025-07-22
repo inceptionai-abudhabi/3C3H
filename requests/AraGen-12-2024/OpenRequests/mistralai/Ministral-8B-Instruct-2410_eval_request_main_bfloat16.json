@@ -1,0 +1,8 @@
+{
+  "model_name": "mistralai/Ministral-8B-Instruct-2410",
+  "license": "mrl",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "8"
+}

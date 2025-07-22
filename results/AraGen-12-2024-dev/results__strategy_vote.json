@@ -1,0 +1,29 @@
+[
+    {
+        "claude-3.5-sonnet Scores": {
+            "3C3H Scores": {
+                "Correctness": 0.0,
+                "Completeness": 0.0,
+                "Conciseness": 0.0,
+                "Helpfulness": 0.0,
+                "Honesty": 0.0,
+                "Harmlessness": 0.0,
+                "3C3H Score": 0.0
+            },
+            "Tasks Scores": {
+                "Question Answering (QA)": 0.0
+            }
+        },
+        "Meta": {
+            "Model Name": "Qwen/Qwen2.5-0.5B-Instruct",
+            "License": "Open",
+            "Revision": "main",
+            "Precision": "bfloat16",
+            "Params": 0.0,
+            "Total Entries": 5,
+            "Successful Entries": 5,
+            "Failed Entries": 0,
+            "Success Ratio": 1.0
+        }
+    }
+]

@@ -1,0 +1,8 @@
+{
+  "model_name": "silma-ai/SILMA-Kashif-2B-Instruct-v1.0",
+  "license": "Open",
+  "revision": "7ab60588e1f3a649758979025ed07add3b05c3ea",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "2.6"
+}

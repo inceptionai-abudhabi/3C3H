@@ -1,0 +1,8 @@
+{
+  "model_name": "CohereForAI/c4ai-command-r7b-arabic-02-2025",
+  "license": "cc-by-nc-4.0",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "8"
+}

@@ -1,0 +1,8 @@
+{
+  "model_name": "silma-ai/SILMA-Kashif-2B-Instruct-v1.0",
+  "license": "Gemma",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": ""
+}

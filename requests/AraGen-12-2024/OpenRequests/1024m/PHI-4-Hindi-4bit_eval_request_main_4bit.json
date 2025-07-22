@@ -1,0 +1,8 @@
+{
+  "model_name": "1024m/PHI-4-Hindi-4bit",
+  "license": "Open",
+  "revision": "main",
+  "precision": "4bit",
+  "status": "FINISHED",
+  "params": "14"
+}

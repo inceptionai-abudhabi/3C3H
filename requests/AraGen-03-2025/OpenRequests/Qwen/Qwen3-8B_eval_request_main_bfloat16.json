@@ -1,0 +1,8 @@
+{
+  "model_name": "Qwen/Qwen3-8B",
+  "license": "apache-2.0",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "8"
+}

@@ -1,0 +1,8 @@
+{
+  "model_name": "Navid-AI/Yehia-7B-preview",
+  "license": "Open",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "7B"
+}

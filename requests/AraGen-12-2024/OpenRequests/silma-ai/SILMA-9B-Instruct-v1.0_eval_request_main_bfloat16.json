@@ -1,0 +1,8 @@
+{
+  "model_name": "silma-ai/SILMA-9B-Instruct-v1.0",
+  "license": "gemma",
+  "revision": "main",
+  "precision": "bfloat16",
+  "status": "FINISHED",
+  "params": "9"
+}

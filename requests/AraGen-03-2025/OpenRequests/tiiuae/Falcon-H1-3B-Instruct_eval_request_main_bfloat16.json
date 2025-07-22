@@ -1,0 +1,9 @@
+{
+  "model_name": "tiiuae/Falcon-H1-3B-Instruct",
+  "license": "Open",
+  "revision": "main",
+  "precision": "bfloat16",
+  "params": "0",
+  "status": "FINISHED",
+  "modality": "Text"
+}

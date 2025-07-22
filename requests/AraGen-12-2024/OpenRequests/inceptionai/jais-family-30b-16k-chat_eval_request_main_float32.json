@@ -1,0 +1,8 @@
+{
+  "model_name": "inceptionai/jais-family-30b-16k-chat",
+  "license": "apache-2.0",
+  "revision": "main",
+  "precision": "float32",
+  "status": "FINISHED",
+  "params": "30"
+}

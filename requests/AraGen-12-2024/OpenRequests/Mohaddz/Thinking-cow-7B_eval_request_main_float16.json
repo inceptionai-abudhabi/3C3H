@@ -1,0 +1,8 @@
+{
+  "model_name": "Mohaddz/Thinking-cow-7B",
+  "license": "Apache license 2.0",
+  "revision": "main",
+  "precision": "float16",
+  "status": "FINISHED",
+  "params": "7"
+}

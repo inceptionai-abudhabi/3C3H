@@ -1,0 +1,240 @@
+The token has not been saved to the git credentials helper. Pass `add_to_git_credential=True` in this function directly or `--add-to-git-credential` if using via `huggingface-cli` if you want to set the git credential as well.
+Token is valid (permission: write).
+The token `Inception` has been saved to /inception_users/ali.filali/.cache/huggingface/stored_tokens
+Your token has been saved to /inception_users/ali.filali/.cache/huggingface/token
+Login successful.
+Note: Environment variable`HF_TOKEN` is set and is the current active token independently from the token you've just configured.
+==========================================
+Pipeline start under Job ID: aj_20250722_094604_1233753
+Logs are being written to: /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/logs/AraGen-12-2024-dev//aj_20250722_094604_1233753//aj_20250722_094604_1233753.log
+==========================================
+Using conda environment: 3c3h
+No model name provided, processing all requests in directories...
+Checking and resetting status of RUNNING requests to PENDING...
+Status reset completed.
+========================================
+Starting Model Processing Phase
+Total Models to Process: 1
+Model Names to be processed:
+Qwen/Qwen2.5-0.5B-Instruct
+========================================
+----------------------------------------
+Processing Eval Request File: /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/requests/AraGen-12-2024-dev/OpenRequests/Qwen/Qwen2.5-0.5B-Instruct_eval_request_main_bfloat16.json
+----------------------------------------
+Model Name: Qwen/Qwen2.5-0.5B-Instruct
+Model Revision: main
+Model Precision: bfloat16
+Model Status: PENDING
+Model License: Open
+Model Size: 0
+Modality: Text
+Model already found locally
+Generating answers for model: Qwen/Qwen2.5-0.5B-Instruct
+Provider: Qwen
+Model ID: Qwen2.5-0.5B-Instruct
+Raw Model Name: Qwen/Qwen2.5-0.5B-Instruct
+Number of GPUs available: 8
+Total number of entries: 5
+
+Processing model: Qwen/Qwen2.5-0.5B-Instruct
+Model size in bytes: 999605160
+Bits per parameter: 16
+Using provided --params value: 0.0 billion parameters.
+Loading tokenizer for text model Qwen/Qwen2.5-0.5B-Instruct
+Loading text model on single GPU.
+✅  GPU 0 is free enough (4 MiB used).
+Using GPU 0 for text model.
+Chat template detected, using it for formatting.
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+---- Model Answer ----
+الجامعة العربية، وهي جمعية دولية تضم 10 دولة عربية، هي منظمة دولية متعددة الجنسيات تأسست عام 1963. فيما يلي بعض المعلومات الأساسية عن الدول الأعضاء في الجامعة العربية:
+
+1. الدول الأعضاء:
+   - السعودية
+   - الإمارات العربية المتحدة
+   - الكويت
+   - لبنان
+   - العراق
+   - مصر
+   - اليمن
+   - قطر
+   - الجزائر
+
+2. المهام الرئيسية للجامعة العربية:
+   - تنظيم القارات الكبرى
+   - مساعدة الدول العربية في التحول الرقمي
+   - تعزيز التعاون الاقتصادي والتجاري بين الدول العربية
+   - تقديم الدعم للاعتراف الدولي بالدول العربية
+
+3. الهدف الرئيسي:
+   - تعزيز العلاقات بين الدول العربية وتعزيز التعاون الاقتصادي والتنموي
+
+4. الموقع:
+   - تقع الجامعة العربية في منطقة الشرق الأوسط
+
+5. التاريخ:
+   - أنشئت الجامعة العربية في عام 1963
+   - تم افتتاحها في القاهرة المصرية
+
+6. العناصر الأساسية:
+   - الجامعة العربية هي منظمة دولية متعددة الجنسيات
+   - تتكون من 10 دولة عربية
+
+7. أهمية الجامعة العربية:
+   - لها دور هام في تعزيز العلاقات بين الدول العربية
+   - تساهم في تحقيق التنمية الاقتصادية والاجتماعية في المنطقة
+
+هذه هي بعض المعلومات الأساسية عن الدول الأعضاء في الجامعة العربية.<|im_end|>
+--------------
+Processed 1/5 entries for model Qwen/Qwen2.5-0.5B-Instruct
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+---- Model Answer ----
+الثورة العربية، أو الربيع العربي، كانت تأثيراً ملحوظاً على العديد من الأنظمة السياسية في المنطقة، حيث:
+
+1. التغيير السياسي: شهدت الثورات العربية تغيرات كبيرة في النظام السياسي، سواء كان ذلك في الدول القائمة أو في الدول التي لم تكن موجودة قبل هذه الثورات.
+
+2. الانفتاح والتشدد: ازداد الاهتمام بالصراعات الداخلية وحرب المصالح بين الدول، مما أدى إلى زيادة الانفتاح السياسي والتشدد في بعض الدول.
+
+3. التحول الاقتصادي: عاشت الثورات العربية تحديات كبيرة في مجال الاقتصاد، خاصة في الدول التي لم تكن لديها قوى حقيقية للتنمية الاقتصادية.
+
+4. التحولات الاجتماعية: شهدت الثورات العربية تغييراً كبيراً في الثقافة والتقاليد الاجتماعية، مما أدى إلى تغييرات في المجتمعات المحلية.
+
+5. التحول الأمني: شهدت الثورات العربية تطورات في العلاقات الأمنية الدولية، خاصة مع وجود دول أخرى مثل إيران وأذربيجان.
+
+6. التحول السياسي الدولي: شهدت الثورات العربية تغييرات في السياسة الخارجية للأمم المتحدة، خاصة في الولايات المتحدة الأمريكية.
+
+7. التحول السياسي المحلي: شهدت الثورات العربية تغييرات في نظام الحكم المحلي، خاصة في الدول التي لم تكن لديها نظام ديمقراطي حقيقي.
+
+8. التحول السياسي العالمي: شهدت الثورات العربية تطورات في العالم ككل، خاصة في الدول التي لم تكن لديها قوة سياسية حقيقية.
+
+في النهاية، فإن الثورات العربية لم تؤثر بشكل مباشر على جميع الأنظمة السياسية في المنطقة، ولكنها أدت إلى تغييرات كبيرة في النظام السياسي والاقتصادي والاجتماعي والثقافي.<|im_end|>
+--------------
+Processed 2/5 entries for model Qwen/Qwen2.5-0.5B-Instruct
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+---- Model Answer ----
+الدول العربية لديها دور هام في المنظمة الدولية للأمن الغذائي (OPEC)، وهي أكبر مؤسسة تحلية النفط في العالم. ولكن، لا يمكننا معرفة بشكل确切 دورها في الأسعار النفطية العالمية أو تأثيره على أسعار النفط بشكل عام.
+
+الأساسيات الرئيسية للمنظمة:
+
+1. تشكلت في عام 1960 كنادي عالمي يجمع الدول الأعضاء لتفعيل السياسات الاقتصادية والمالية للنفط.
+2. تعمل OPEC على تحديد أسعار النفط المقررة سنوياً.
+3. تحدد أهدافها المالية والاقتصادية للنفط.
+4. تقدم مجموعة من التوصيات حول السياسات الاقتصادية والمالية للنفط.
+
+في الخصوصية، فإن تأثير OPEC على أسعار النفط العالمية يتوقف على عدة عوامل:
+
+1. الطلب العالمي: زيادة الطلب العالمي على النفط قد يؤدي إلى ارتفاع أسعار النفط.
+2. القدرة التنافسية: إذا كانت هناك قوى نفوذية مثل الولايات المتحدة أو الصين تستطيعون تقليل سعر النفط، فستكون هذه القوة تؤثر على أسعار النفط العالمية.
+3. التغيرات في الاقتصاد العالمي: تغيرات في الاقتصاد العالمي قد تؤدي إلى تغييرات في الطلب على النفط.
+
+لذا، لا يمكننا معرفة بشكل مؤكد دور OPEC في أسعار النفط العالمية أو تأثيراته على الأسعار بشكل عام.<|im_end|>
+--------------
+Processed 3/5 entries for model Qwen/Qwen2.5-0.5B-Instruct
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+---- Model Answer ----
+الدول العربية لديها دور هام في دعم الأمن الغذائي العالمي، حيث أنهم يمثلون حوالي 14% من عدد سكان العالم ويعيشون غالبية السكان في المناطق المائية والغنية بالحيوانات. إليك بعض النقاط الرئيسية حول هذا الموضوع:
+
+1. التأثير الاقتصادي: تؤثر الدول العربية على الاقتصاد العالمي بشكل كبير. تنتج معظم الغذاء العربية من مصادر الطاقة النظيفة مثل النفط والغاز الطبيعي، مما يجعلها مصدرًا قويًا للطاقة المستدامة.
+
+2. التعاون الدولي: تلعب الدول العربية دوراً حيوياً في تنفيذ السياسات الدولية لدعم الأمن الغذائي. هذه الدورات تتضمن توفير الأفكار والحلول التي يمكن أن تساعد في الحفاظ على اقتصاديات الدول العربية وتعزيز الاستقرار السياسي.
+
+3. المشاركة في المنظمات الدولية: تشارك الدول العربية في العديد من المنظمات الدولية مثل الأمم المتحدة والاتحاد الأوروبي والجامعة العربية. هذه المنظمات تقدم المساعدة في مجالات مثل التنمية المستدامة، الأمن الغذائي، والسلام العالمي.
+
+4. الابتكار والتطوير: تسعى الدول العربية إلى البحث عن حلول جديدة لتحسين أداء الغذاء في المنطقة. هذا يشمل إنشاء محطات استهلاك أكثر كفاءة وتنمية استخدامات الطاقة.
+
+5. التحديات: ومع ذلك، هناك أيضا تحديات كبيرة تواجه الدول العربية في تحقيق أهدافها في مجال الأمن الغذائي. منها التقلبات الاقتصادية والسياسية، والتحديات البيئية، والتحديات الصحية.
+
+6. التعاون مع المجتمع الدولي: تتعاون الدول العربية مع المجتمع الدولي في العديد من المجالات، بما في ذلك العمل المشترك في مجالات مثل الأمن الغذائي، الصحة العالمية، والسلام العالمي.
+
+7. التحديات البيئية: هناك تحديات بيئية مهمة تواجه الدول العربية في مجال الأمن الغذائي. مثل التلوث الجغرافي والبيئة، والحد من الغازات الدافعة.
+
+لذا، فإن دعم الأمن الغذائي العالمي يتطلب جهود عالمية واسعة ومتكاملة من جميع الدول العربية والدول الأخرى.<|im_end|>
+--------------
+Processed 4/5 entries for model Qwen/Qwen2.5-0.5B-Instruct
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+---- Model Answer ----
+التحديات الاقتصادية الرئيسية للعالم العربي تتضمن:
+
+1. البطالة والجوع: يعاني العديد من الدول العربية من البطالة ونقص الغذاء، مما يجعل العمل مرهقًا.
+
+2. الفقر وال Poverty: هناك الكثير من الأشخاص في المنطقة الذين لا يمكنهم البقاء على قيد الحياة بسبب الفقر والبطالة.
+
+3. النزاعات السياسية: تشهد المنطقة أزمة سياسية مستمرة، حيث تواجه دوليًا تحديات كبيرة مثل التوترات الدبلوماسية والصراعات الأمنية.
+
+4. المخاطر البيئية: تشكل انتشار الأمراض والأمراض العصبية والكائنات الحية الأخرى خطراً على الصحة العامة والبيئة.
+
+5. التغير المناخي: زيادة درجة الحرارة العالمية قد تكون سبباً في تدهور البيئة والحدائق الطبيعية.
+
+6. التقلبات الاقتصادية الدولية: تأثرت منطقة الشرق الأوسط بشكل كبير بال collapses في الاقتصاد العالمي بسبب تغيرات المناخ.
+
+7. التحديات الاجتماعية: تواجه بعض الدول العربية مشاكل في توفير التعليم والرعاية الصحية للمواطنين.
+
+8. التحديات الاقتصادية التقليدية: مثل التحول الرقمي والتجارة الإلكترونية، التي قد تؤدي إلى انخفاض فرص العمل.
+
+9. التحديات الاقتصادية التقليدية: مثل التحول الرقمي والتجارة الإلكترونية، التي قد تؤدي إلى انخفاض فرص العمل.
+
+هذه التحديات تعكس جوهر القوى الاقتصادية والاجتماعية التي تواجهها المنطقة العربية اليوم. ومع ذلك، فإن الجهود الدولية لحل هذه التحديات تساهم في تحسين وضعية المنطقة.<|im_end|>
+--------------
+Processed 5/5 entries for model Qwen/Qwen2.5-0.5B-Instruct
+Total time for Qwen/Qwen2.5-0.5B-Instruct: 00:00:23.60
+Results saved to /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/answers/AraGen-12-2024-dev/Qwen_Qwen2.5-0.5B-Instruct_main_bfloat16_answers.json
+
+Total script time: 00:00:23.71
+SUCCESS: Answers generated for model Qwen/Qwen2.5-0.5B-Instruct.
+Progress: 1/1 models processed.
+Error: The following environment variables are not set: OPENAI_API_KEY, INCEPTION_API_KEY, INCEPTION_LLAMA3P1_405B_API_KEY
+Starting Jury Script
+Found 1 unjudged JSON files to process.
+
+Processing file: /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/answers/AraGen-12-2024-dev/Qwen_Qwen2.5-0.5B-Instruct_main_bfloat16_answers.json
+  Evaluating entry 1/5
+    Getting response from judge: claude-3.5-sonnet
+  Evaluating entry 2/5
+    Getting response from judge: claude-3.5-sonnet
+  Evaluating entry 3/5
+    Getting response from judge: claude-3.5-sonnet
+  Evaluating entry 4/5
+    Getting response from judge: claude-3.5-sonnet
+  Evaluating entry 5/5
+    Getting response from judge: claude-3.5-sonnet
+Updated results saved to /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/answers/AraGen-12-2024-dev/Qwen_Qwen2.5-0.5B-Instruct_main_bfloat16_answers_judged.json
+
+Jury Script Completed Successfully.
+SUCCESS: Judging completed
+Error: The following environment variables are not set: OPENAI_API_KEY, INCEPTION_API_KEY, INCEPTION_LLAMA3P1_405B_API_KEY
+Starting Jury Script
+No unjudged JSON files found in /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/answers/AraGen-12-2024-dev/. Exiting.
+SUCCESS: Judging completed
+2025-07-22 09:48:31,640 - INFO - Found 1 judged JSON files in /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/answers/AraGen-12-2024-dev/.
+Processing file:  /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/answers/AraGen-12-2024-dev/Qwen_Qwen2.5-0.5B-Instruct_main_bfloat16_answers_judged.json
+2025-07-22 09:48:31,642 - INFO - Common judges across all files: ['Judge 1']
+2025-07-22 09:48:31,642 - INFO - Jury present in all files: False
+2025-07-22 09:48:31,645 - INFO - No existing results file found at /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/results/AraGen-12-2024-dev/results__strategy_vote.json. Starting fresh.
+2025-07-22 09:48:31,645 - INFO - Processing file: /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/answers/AraGen-12-2024-dev/Qwen_Qwen2.5-0.5B-Instruct_main_bfloat16_answers_judged.json
+2025-07-22 09:48:31,646 - INFO - Completed processing for model: Qwen/Qwen2.5-0.5B-Instruct
+2025-07-22 09:48:31,646 - INFO - Processed model 'Qwen/Qwen2.5-0.5B-Instruct'.
+2025-07-22 09:48:31,655 - INFO - Results successfully saved to /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/results/AraGen-12-2024-dev/results__strategy_vote.json
+SUCCESS: Averaging completed.
+========================================
+All models have been processed.
+========================================
+========================================
+Model Processing Phase Summary
+========================================
+Total Models Processed: 1
+Successful Models: 1
+Failed Models: 0
+========================================
+List of Successful Models:
+Qwen/Qwen2.5-0.5B-Instruct
+================================================
+Pipeline under Job ID (aj_20250722_094604_1233753) Completed.
+All logs are available in: /lustrefs/shared/ali.filali/Inception/AraGen/3c3h-github/logs/AraGen-12-2024-dev//aj_20250722_094604_1233753//aj_20250722_094604_1233753.log
+================================================
+2025-07-22 09:48:31 Time taken to run the pipeline: 143s
