@@ -56,7 +56,7 @@ $ git clone https://github.com/inceptionai-abudhabi/3C3H.git
 $ cd 3C3H
 
 # 2. Create environment (Conda example)
-$ conda create -n 3c3h python=3.9 -y
+$ conda create -n 3c3h python=3.10 -y
 $ conda activate 3c3h
 $ pip install -r ./pipeline/requirements.txt
 
